@@ -2,6 +2,7 @@
 
 A premium, editorial-style landing page inspired by a Pinterest reference and rebuilt as a **pixel-focused replica** using **React + Vite + Tailwind CSS v4 + Framer Motion**. The goal of this project is to demonstrate high design fidelity, responsive layout craft, and subtle interaction polish.
 
+Live Demo: https://lava-black-sand.vercel.app/
 Repository: https://github.com/SubDan12/lava-black-sand
 
 ---
